@@ -14,6 +14,6 @@ Make sure `logo.min.svg` stays in sync.
 
 ## Distribute
 
-   bin/dist.sh
+    bin/dist.sh
 
 And commit these files when done.
