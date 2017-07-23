@@ -67,6 +67,7 @@ createLogoVersions "claim"
 createLogoVersions "claim-white"
 createLogoVersions "logo"
 createLogoVersions "logo-and-claim"
+createLogoVersions "logo-and-claim-white"
 
 optimizePng "$DIST_DIR"
 
