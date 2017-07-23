@@ -52,6 +52,7 @@ function optimizePng() {
 
 createLogoVersions "arrow"
 createLogoVersions "claim"
+createLogoVersions "claim-white"
 createLogoVersions "logo"
 
 optimizePng "$DIST_DIR"
