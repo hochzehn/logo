@@ -50,6 +50,8 @@ function optimizePng() {
   du -h "$DIR"
 }
 
+createLogoVersions "arrow"
+createLogoVersions "claim"
 createLogoVersions "logo"
 
 optimizePng "$DIST_DIR"
