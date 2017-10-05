@@ -32,6 +32,7 @@ function createLogoVersions() {
   resize 64
   resize 196
   resize 256
+  resize 368
   resize 512
 
   echo ""
