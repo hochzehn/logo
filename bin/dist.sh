@@ -64,11 +64,11 @@ function optimizePng() {
 }
 
 createLogoVersions "arrow"
-createLogoVersions "claim"
-createLogoVersions "claim-white"
+createLogoVersions "brand"
+createLogoVersions "brand-white"
 createLogoVersions "logo"
-createLogoVersions "logo-and-claim"
-createLogoVersions "logo-and-claim-white"
+createLogoVersions "logo-and-brand"
+createLogoVersions "logo-and-brand-white"
 createLogoVersions "logo-and-white-brand"
 
 optimizePng "$DIST_DIR"
