@@ -71,6 +71,7 @@ createLogoVersions "brand-white"
 createLogoVersions "logo"
 createLogoVersions "logo-and-brand"
 createLogoVersions "logo-and-brand-white"
+createLogoVersions "logo-and-brand-white-on-color"
 createLogoVersions "logo-and-white-brand"
 
 optimizePng "$DIST_DIR"
